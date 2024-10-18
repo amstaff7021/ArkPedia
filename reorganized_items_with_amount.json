@@ -1,0 +1,38 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 1,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/tGx0nhk.png",
+			"disableicontext": false,
+			"iconposition": 1,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 12
+		},
+    "tabs": [
+      {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">ArkPedia</>",
+          "imageurl": "https://i.imgur.com/tGx0nhk.png",
+          "content": [
+              {
+                  "title": "Bienvenue sur ArkPedia !",
+                  "text": "Veuillez rejoindre le discord afin de consulter le règlement, être informé des nouveautés mais également obtenir des informations sur l'utilisation du shop. \n\n Please join the discord to consult the rules, be informed of news but also obtain information on using the shop."
+              }
+          ]
+      }
+  ],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/Xe45uVUS"
+			}
+		],
+		"version": 2
+	}
+}
